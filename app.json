@@ -1,13 +1,11 @@
 {
-  "expo": {
-    "scheme": "acme",
-    "web": {
-      "bundler": "metro"
-    },
-    "plugins": [
-      "expo-router"
-    ],
-    "name": "Jobs",
-    "slug": "Jobs"
-  }
+	"expo": {
+		"scheme": "Jobs",
+		"web": {
+			"bundler": "metro"
+		},
+		"plugins": ["expo-router"],
+		"name": "Jobs",
+		"slug": "Jobs"
+	}
 }
