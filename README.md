@@ -9,16 +9,16 @@ Um aplicativo funcional, que pesquisa vagas de trabalho em diversas plataformas 
     X_RapidAPI_Key="CHAVE AO SE REGISTRAR NO SITE RAPID API"
 ```
 
-Imagens do projeto:
+### Imagens do projeto:
 
-### Tela inicial do aplicativo
+Tela inicial do aplicativo
 
 ![Jobs-1](images/Image-1.jpg)
 
-### Listagem das vagas próximas ao usuário, com base no texto pesquisado
+Listagem das vagas próximas ao usuário, com base no texto pesquisado
 
 ![Jobs-2](images/Image-2.jpg)
 
-### Sobre a vaga
+Sobre a vaga
 
 ![Jobs-3](images/Image-3.jpg)
